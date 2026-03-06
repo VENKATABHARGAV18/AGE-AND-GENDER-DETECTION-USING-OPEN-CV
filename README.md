@@ -145,11 +145,11 @@ OUTPUT
 
 The system displays the following information on the detected face:
 
-Gender (Male / Female)
+*  Gender (Male / Female)
 
-Age Group
+*  Age Group
 
-Confidence percentage
+* Confidence percentage
 
 Example output:
 
